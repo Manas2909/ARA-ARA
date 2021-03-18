@@ -1,5 +1,5 @@
 asgiref==3.2.3
-Django==3.0.2
+Django==3.1.6
 django-connection-url==0.1.2
 django-material-admin==1.6.34
 gunicorn==20.0.4
