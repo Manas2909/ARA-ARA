@@ -4,7 +4,7 @@ django-connection-url==0.1.2
 django-material-admin==1.6.34
 gunicorn==20.0.4
 persons==0.2a0
-Pillow==7.0.0
+Pillow==8.2.0
 psycopg2==2.8.4
 pytz==2019.3
 sqlparse==0.3.0
